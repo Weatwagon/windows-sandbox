@@ -1,0 +1,17 @@
+<Configuration>
+  <VGpu>Enabled</VGpu>
+  <Networking>Enabled</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>D:\SandboxScripts</HostFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>D:\Sources\Repos</HostFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>C:\Users\WDAGUtilityAccount\Desktop\SandboxScripts\VSCodeInstall.cmd</Command>
+  </LogonCommand>  
+</Configuration>

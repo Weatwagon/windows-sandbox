@@ -1,0 +1,5 @@
+<Configuration>
+<LogonCommand>
+<Command>net use S: \\live.sysinternals.com\tools</Command>
+</LogonCommand>
+</Configuration>
