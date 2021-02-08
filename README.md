@@ -1,6 +1,6 @@
 ﻿# Sample Configuration Files for Windows Sandbox for Windows 10
 
-[Microsfot Doc](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
+[Microsfot Docs](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 
 #### **`Default.wsb`**
 
